@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=👾+About+Me" alt="Typing SVG" />
   </a>
 </div>
-
+<div align = "center">
 <!-- Description About Me -->
 <p>I'm a curious coder who turns caffeine into clean code ☕💻</p>
 <p>I'm a **BackEnd Dev** by experience, but a **Full Stack Dev** at heart. I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.</p>
@@ -99,9 +99,11 @@ Here are some ideas to get you started:
 - Programming languages like Python, PHP, and JavaScript  
 - Tools that boost deployment & automation (CI/CD, Docker)  
 - Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
+</div>
+<div align = "center">
 
-<p>"Write code like poetry, and let GitHub be your gallery."</p>
-
+> "Write code like poetry, and let GitHub be your gallery."
+</div>
 <!-- Contact Section -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -123,6 +125,7 @@ Here are some ideas to get you started:
   </a>
   <picture>
     <!-- GitHub Contribution Snake (This image will show the contributions) -->
-    <img src="https://github.com/RIFKIRH/RIFKIRH/blob/output/snake-cool.svg" alt="GitHub Contribution Snake" />
+  
+  ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
   </picture>
 </div>
