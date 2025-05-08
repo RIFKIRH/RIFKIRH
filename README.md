@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 <!-- Description About Me -->
 I'm a curious coder who turns caffeine into clean code ☕💻
 I'm a **BackEnd Dev** by experience, but a **Full Stack Dev** at heart. 
+
 I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.
 I’m deeply interested in **Cyber Security**, especially secure coding, authentication, and web vulnerabilities.
 
@@ -102,7 +103,10 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
  🧪 Experimenting with small side projects just for fun
 
 <!-- Currently Exploring Section -->
-### 🚧 Currently Exploring
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=🚧+Currently+Exploring" alt="Typing SVG" />
+  </a>
  Programming languages like Python, PHP, and JavaScript  
  Tools that boost deployment & automation (CI/CD, Docker)  
  Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
