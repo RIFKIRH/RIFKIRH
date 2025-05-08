@@ -157,7 +157,7 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   </p>
   
   <p>
-    <a href="https://github.com/RIFKIRH/RIFKIRH/blob/main/LICENSE">
+    <a href="https://github.com/RIFKIRH/RIFKIRH/LICENSE.tx">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
     </a>
   </p>
