@@ -35,7 +35,9 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 
 <picture>
   <!-- GitHub Contribution Snake -->
+  
   ![GitHub Contribution Snake](https://github.com/RIFKIRH/RIFKIRH/blob/output/snake-cool.svg)
+
 </picture>
 
 <div align="center">
