@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76oazhp9zscat6bi4yqo213gi2h2&ep=v1_gifs_search&rid=giphy.gif&ct=g
 -->
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Contributions+Under+Attack+!!)](https://git.io/typing-svg)
 
 </div>
 <div align="center">
  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=RIFKIRH&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
 </div>
 
-<picture>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Contributions+Under+Attack+!!)](https://git.io/typing-svg)
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph.svg">
