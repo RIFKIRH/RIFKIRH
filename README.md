@@ -111,9 +111,9 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=🚧+Currently+Exploring" alt="Typing SVG" />
   </a>
 
- Programming languages like Python, PHP, and JavaScript  
- Tools that boost deployment & automation (CI/CD, Docker)  
- Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
+ Programming languages like **Python, PHP, and JavaScript**
+ Tools that boost deployment & automation (**CI/CD, Docker**)  
+ **Cybersecurity** topics like XSS, SQL Injection, and ethical hacking basics
 </div>
 
 <div align = "center">
@@ -157,7 +157,7 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   </p>
   
   <p>
-    <a href="https://github.com/RIFKIRH/RIFKIRH/blob/main/LISENCE.txt">
+    <a href="https://github.com/RIFKIRH/RIFKIRH/blob/main/LICENSE">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
     </a>
   </p>
