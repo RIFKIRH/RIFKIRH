@@ -105,17 +105,11 @@ I Also deeply interested in **Cyber Security**, especially secure coding, authen
   </a>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
 
-  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rifki-rahmatun-hidayah-2759a7272/)
-  [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/578034469747818497)[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://discordapp.com/users/578034469747818497)
-
-
-  [![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/rifki.rahmatunhidayah)
-  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:rifkirahmatunh@gmail.com)
-
-  [![WhatsApp](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](https://wa.me/6282288221040?text=Halo%20Rifki,%20saya%20tertarik%20dengan%20profil%20Anda)
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rifki-rahmatun-hidayah-2759a7272/) [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/578034469747818497) [![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/rifki.rahmatunhidayah)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:rifkirahmatunh@gmail.com) [![WhatsApp](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](https://wa.me/6282288221040?text=Halo%20Rifki,%20saya%20tertarik%20dengan%20profil%20Anda) <a href="https://instagram.com/rifkirh4" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
+</a>
 </div>
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=GitHub+Contributions+Under+Fire+🔥" alt="Typing SVG" />
