@@ -35,8 +35,9 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 <div align="center">
 
  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=RIFKIRH&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIFKIRH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+</p>
 </div>
 
 <div align="center">
