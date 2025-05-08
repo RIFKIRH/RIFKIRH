@@ -84,21 +84,28 @@ Here are some ideas to get you started:
 </div>
 <div align = "center">
 <!-- Description About Me -->
-<p>I'm a curious coder who turns caffeine into clean code ☕💻</p>
-<p>I'm a **BackEnd Dev** by experience, but a **Full Stack Dev** at heart. I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.</p>
-<p>I’m deeply interested in **Cyber Security**, especially secure coding, authentication, and web vulnerabilities.</p>
+I'm a curious coder who turns caffeine into clean code ☕💻
+I'm a **BackEnd Dev** by experience, but a **Full Stack Dev** at heart. 
+I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.
+I’m deeply interested in **Cyber Security**, especially secure coding, authentication, and web vulnerabilities.
+
+
 
 <!-- Current Focus Section -->
-### 🧠 Current Focus
-- 🌐 Building full-stack apps with **Laravel**, **React**
-- 📦 Learning **DevOps** & **CI/CD** stuff so I can automate my laziness 😎
-- 🧪 Experimenting with small side projects just for fun
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=🧠+Current+Focus" alt="Typing SVG" />
+  </a>
+  
+  🌐 Building full-stack apps with **Laravel**, **React**
+  📦 Learning **DevOps** & **CI/CD** stuff so I can automate my laziness 😎
+ 🧪 Experimenting with small side projects just for fun
 
 <!-- Currently Exploring Section -->
 ### 🚧 Currently Exploring
-- Programming languages like Python, PHP, and JavaScript  
-- Tools that boost deployment & automation (CI/CD, Docker)  
-- Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
+ Programming languages like Python, PHP, and JavaScript  
+ Tools that boost deployment & automation (CI/CD, Docker)  
+ Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
 </div>
 <div align = "center">
 
