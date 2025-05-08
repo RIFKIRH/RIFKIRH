@@ -112,7 +112,9 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   </a>
 
  Programming languages like **Python, PHP, and JavaScript**
+
  Tools that boost deployment & automation (**CI/CD, Docker**)  
+ 
  **Cybersecurity** topics like XSS, SQL Injection, and ethical hacking basics
 </div>
 
