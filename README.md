@@ -41,6 +41,11 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 </picture>
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&width=435&lines=I+Usually+Usin)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -61,7 +66,5 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
 
 ###
