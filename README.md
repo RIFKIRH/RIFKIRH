@@ -35,8 +35,9 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph.svg">
+
+  <!-- GitHub Contribution Snake -->
+  ![GitHub Contribution Snake](https://github.com/RIFKIRH/EchoSingh/blob/output/snake-cool.svg)
 </picture>
 
 ###
