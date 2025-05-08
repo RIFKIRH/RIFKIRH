@@ -6,9 +6,12 @@
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
 
-<div align="center">
+
 <img src="./assets/octocat.gif" alt="git" width="50" />
 </div>
+
+
+
 
 <!--
 **RIFKIRH/RIFKIRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +34,8 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 <div align="center">
 
  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=RIFKIRH&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIFKIRH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
 <div align="center">
@@ -73,10 +78,43 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 </div>
 
 ###
+<div align="center">
 
-###
-  </div>
+## 👾 About Me
+
+I'm curious coder who turns caffeine into clean code ☕💻  
+I'm a **BackEnd Dev**  by experience, but a **Full Stack Dev** at heart.  
+I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.
+I Also deeply interested in **Cyber Security**, especially secure coding, authentication, and web vulnerabilities
+
+### 🧠 Current Focus
+- 🌐 Building full-stack apps with **Laravel**,**React**
+- 📦 Learning **DevOps** & **CI/CD** stuff so I can automate my laziness 😎
+- 🧪 Experimenting with small side projects just for fun
+
+### 🚧 Currently Exploring
+- Programming languages like Python, PHP, and JavaScript  
+- Tools that boost deployment & automation (CI/CD, Docker)  
+- Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
+
+> "Write code like poetry, and let GitHub be your gallery."
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=Hit+Me+UP!" alt="Typing SVG" />
+  </a>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rifki-rahmatun-hidayah-2759a7272/)
+  [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/578034469747818497)[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://discordapp.com/users/578034469747818497)
+
+
+  [![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/rifki.rahmatunhidayah)
+  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:rifkirahmatunh@gmail.com)
+
+  [![WhatsApp](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](https://wa.me/6282288221040?text=Halo%20Rifki,%20saya%20tertarik%20dengan%20profil%20Anda)
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -84,6 +122,7 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
   </a>
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+</div>
 
 <picture>
   <!-- GitHub Contribution Snake -->
@@ -92,4 +131,3 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 
 </picture>
 
-###
