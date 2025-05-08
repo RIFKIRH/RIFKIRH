@@ -1,14 +1,15 @@
-<!-- Initial Section -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Rifki+Rahmatun+Hidayah" alt="Typing SVG" />
   </a>
+  
+</div>
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
 
-
+<div align="center">
 <img src="./assets/octocat.gif" alt="git" width="50" />
 </div>
+
 
 
 
@@ -80,8 +81,12 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 ###
 <div align="center">
 
-## 👾 About Me
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=👾+About+Me" alt="Typing SVG" />
+  </a>
+  
+</div>
 I'm curious coder who turns caffeine into clean code ☕💻  
 I'm a **BackEnd Dev**  by experience, but a **Full Stack Dev** at heart.  
 I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.
