@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Rifki+Rahmatun+Hidayah)](https://git.io/typing-svg)
 
 <!--
 **RIFKIRH/RIFKIRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76oazhp9zscat6bi4yqo213gi2h2&ep=v1_gifs_search&rid=giphy.gif&ct=g
 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph-dark.svg">
