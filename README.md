@@ -88,6 +88,7 @@ I'm a curious coder who turns caffeine into clean code ☕💻
 I'm a **BackEnd Dev** by experience, but a **Full Stack Dev** at heart. 
 
 I love turning ideas into small side projects, learning new tech, and constantly pushing my limits as a developer.
+
 I’m deeply interested in **Cyber Security**, especially secure coding, authentication, and web vulnerabilities.
 
 
@@ -99,8 +100,11 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   </a>
   
   🌐 Building full-stack apps with **Laravel**, **React**
+
   📦 Learning **DevOps** & **CI/CD** stuff so I can automate my laziness 😎
+
  🧪 Experimenting with small side projects just for fun
+ 
 
 <!-- Currently Exploring Section -->
 <div align="center">
