@@ -110,7 +110,7 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=🚧+Currently+Exploring" alt="Typing SVG" />
   </a>
-  
+
  Programming languages like Python, PHP, and JavaScript  
  Tools that boost deployment & automation (CI/CD, Docker)  
  Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
@@ -144,4 +144,21 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   
   ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
   </picture>
+</div>
+
+<!-- Footer -->
+  <p>
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+  </p>
+  
+  <p>
+    Copyright &copy; 2025-present 
+    <a href="https://github.com/RIFKIRH" target="_blank">RIFKI RAHMATUN HIDAYAH</a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/RIFKIRH/RIFKIRH/blob/main/LICENSE">
+      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
+    </a>
+  </p>
 </div>
