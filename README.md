@@ -34,8 +34,6 @@ https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47hostozo26mop76
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Contributions+Under+Attack+!!)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIFKIRH/RIFKIRH/output/pacman-contribution-graph-dark.svg">
-  
   <!-- GitHub Contribution Snake -->
   ![GitHub Contribution Snake](https://github.com/RIFKIRH/RIFKIRH/blob/output/snake-cool.svg)
 </picture>
