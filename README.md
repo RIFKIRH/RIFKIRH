@@ -110,6 +110,7 @@ I’m deeply interested in **Cyber Security**, especially secure coding, authent
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31B5F7&center=true&vCenter=true&width=435&lines=🚧+Currently+Exploring" alt="Typing SVG" />
   </a>
+  
  Programming languages like Python, PHP, and JavaScript  
  Tools that boost deployment & automation (CI/CD, Docker)  
  Cybersecurity topics like XSS, SQL Injection, and ethical hacking basics
